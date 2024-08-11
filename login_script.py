@@ -68,7 +68,7 @@ async def login(username, password, panel):
 
 async def main():
     global message
-    message = 'serv00&ct8自动化脚本运行\n'
+    message = '够够欧🥁\n'
 
     try:
         async with aiofiles.open('accounts.json', mode='r', encoding='utf-8') as f:
