@@ -112,11 +112,8 @@ async def send_telegram_message(message):
             'inline_keyboard': [
                 [
                     {
-                        'text': '问题反馈❓',
-                        'url': 'https://t.me/yxjsjl'
-                        'text': '问题反馈❓',
+                        'text': '问题反馈哎呦喂❓',
                         'url': 'https://panel8.serv00.com'
-                        
                     }
                 ]
             ]
