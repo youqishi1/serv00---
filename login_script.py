@@ -21,7 +21,7 @@ async def delay_time(ms):
 browser = None
 
 # telegram消息
-message = 'serv00&ct8自动化脚本运行\n'
+message = '哎呦喂\n'
 
 async def login(username, password, panel):
     global browser
@@ -114,6 +114,9 @@ async def send_telegram_message(message):
                     {
                         'text': '问题反馈❓',
                         'url': 'https://t.me/yxjsjl'
+                        'text': '问题反馈❓',
+                        'url': 'https://panel8.serv00.com'
+                        
                     }
                 ]
             ]
