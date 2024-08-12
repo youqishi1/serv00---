@@ -68,7 +68,7 @@ async def login(username, password, panel):
 
 async def main():
     global message
-    message = '够够欧🥁\n'
+    message = '办公室的ser00🥁\n'
 
     try:
         async with aiofiles.open('accounts.json', mode='r', encoding='utf-8') as f:
@@ -112,8 +112,8 @@ async def send_telegram_message(message):
             'inline_keyboard': [
                 [
                     {
-                        'text': '问题反馈哎呦喂❓',
-                        'url': 'https://panel8.serv00.com'
+                        'text': 'github❓',
+                        'url': 'https://github.com/youqishi1/serv00---/edit/main/login_script.py'
                     }
                 ]
             ]
